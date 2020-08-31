@@ -9,9 +9,11 @@ I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 
 **APPLICATION PURPOSE**
+
 This weather application allows users to view the current weather and five-day forecast for desired cities. The weather conditions available include the temperature and humidity percentage. Time to plan for the next trip!
 
 **ACCEPTANCE CRITERIA FOR ASSIGNMENT**
+
 GIVEN a weather dashboard with form inputs
 
 WHEN I search for a city
