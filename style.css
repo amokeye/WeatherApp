@@ -1,0 +1,61 @@
+*
+
+/* Confirms that no gaps space exists above/around the first header of the page */
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+/**/
+.search-data {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Font and sizing details for the first header of the page */
+h1 {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(48, 46, 46);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffffff;
+    }
+
+h3 {
+    padding-left: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: inline-block;
+}
+
+
+.search {
+    padding-left: 15px;
+}
+
+/* Customization for the "Submit" button*/
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    padding: 3px;
+    cursor: pointer;
+  }
+  
+
+/* Button color and font style change to indicate that button is interactive (i.e. can be clicked) */
+.btn:hover {
+    background-color: RoyalBlue;
+    font-style: italic;
+  }
+
+#text {
+    height: 27px;
+    font-style: italic;
+}
